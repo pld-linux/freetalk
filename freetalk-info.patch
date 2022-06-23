@@ -1,0 +1,14 @@
+--- freetalk-4.2/doc/freetalk.texi.orig	2022-06-09 22:08:35.000000000 +0200
++++ freetalk-4.2/doc/freetalk.texi	2022-06-23 19:38:01.050233803 +0200
+@@ -7,9 +7,9 @@
+ 
+ @include version.texi
+ 
+-@dircategory Freetalk@!
++@dircategory Net utilities:
+ @direntry
+-* freetalk: (freetalk).         Freetalk user/developers guide
++* freetalk: (freetalk).			Freetalk user/developers guide
+ @end direntry
+ 
+ @ifinfo
